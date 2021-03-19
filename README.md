@@ -18,7 +18,7 @@ Our app finds recipes that you can make using ingredients you already have, redu
 - **Mobile:** This app could be a website, but is better on mobile because the user will have a more seamless experience.
 - **Story:** Many people hate throwing away food. And many people still do it. Why? Because they don't know what else to do with it. Our app solves this issue by giving them something to do with it.
 - **Market:** It is a green app, because it reduces food waste. Also, it is great for home cooks or people looking to cook at home, especially in the pandemic.
-- **Habit:** Using our app makes you feel good. You are helping the wiorld and ejoying yourself while doing it.
+- **Habit:** Using our app makes you feel good. You are helping the world and ejoying yourself while doing it.
 - **Scope:** It is straight forward. We can apply many of the things we have done in previous labs and assignments such as TableView, using API, persistence, animations, etc.
 
 ## Product Spec
