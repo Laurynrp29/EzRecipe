@@ -36,6 +36,8 @@ Our app finds recipes that you can make using ingredients you already have, redu
 * Save recipes
 * Grocery list
 * Upload your own recipe
+* Images
+* Different filters
 
 ### 2. Screen Archetypes
 
