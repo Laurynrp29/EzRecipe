@@ -59,6 +59,8 @@ Our app finds recipes that you can make using ingredients you already have, redu
 * Recipe Matches
 
 ## Wireframes
+<img src="https://i.imgur.com/k0WU0Uu.png" />
+
 ## Schema 
 ### Models
 #### Post
