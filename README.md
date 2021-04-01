@@ -1,5 +1,13 @@
 Seasonings Team Group Project
 ===
+# Milestone 1 Update
+For this milestone we had to find an API and figure out how to use it. We chose to use Tasty's free API
+
+## Video Walkthrough
+
+Here's a walkthrough of our API:
+
+<img src='https://media.giphy.com/media/cOW1Bppzkr9GKK91fr/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # EzRecipe
 
@@ -27,9 +35,9 @@ Our app finds recipes that you can make using ingredients you already have, redu
 
 **Required Must-have Stories**
 
-* Something to enter your ingredients that you have
-* API to get recipes online
-* TableView showing the matching recipes
+[] Something to enter your ingredients that you have
+[x] API to get recipes online
+[] TableView showing the matching recipes
 
 **Optional Nice-to-have Stories**
 
